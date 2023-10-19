@@ -1,3 +1,7 @@
+h2 {
+    text-align: center;
+    margin: 30px 0;
+}
 .container {
     background-color: #673888;
     margin-bottom: 15px;
