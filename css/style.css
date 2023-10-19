@@ -1,0 +1,22 @@
+.container {
+    background-color: #673888;
+    margin-bottom: 15px;
+}
+
+.box {
+    margin: 10px 0;
+    padding-top: 22px;
+    min-height: 80px;
+    background-color: #c79dd7;
+    border: 2px solid #4d1b7b;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box3 {
+    background-color: #ef4f91;
+}
+
+.box5 {
+    background-color: #80d5ff;
+}

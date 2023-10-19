@@ -1,0 +1,56 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.box {
+        color: white;
+        background-color: #4d1b7b;
+        border: 2px solid #c79dd7;
+    }
+
+    .box3 {
+        background-color: #ef4f91;
+    }
+
+    .ftcontain {
+        margin-top: -15px;
+    }
+
+    .box6 {
+        color: #000;
+        background-color: #c79dd7;
+        border: 2px solid #4d1b7b;
+    }
+
+    /* .box2-1, 
+    .box3 {
+        display: none;
+    } */
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	
+    /* .box3 {
+        display: none;
+    } */
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+}
